@@ -1,7 +1,27 @@
-### Hi there 👋
+## Sejam Bem-vindos ao Meu Github!
 
-<!--
-**Cristian-Mathias/Cristian-Mathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gif do gatinho no computador](https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif)
+
+👉 Olá, me chamo Cristian Mathias.
+
+📚 Sou Tecnólogo em Processos Gerenciais e estudante de programação com foco no desenvolvimento Web.
+
+📫 [Meu Linkedin](https://www.linkedin.com/in/cristian-mathias)
+
+### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px">   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100px">             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+
+| Cursos | Certificados |
+|--------|--------------|
+|Formação HTML Web Developer|[Bootcamp](https://www.dio.me/certificate/FBEA8CC5/share)|
+|Formação CSS Web Developer|[Bootcamp](https://www.dio.me/certificate/OSSFXFIC/share)|
+          
+![Cristian Mathias GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Mathias&show_icons=true&theme=radical)
+
+<!-- **Cristian-Mathias/Cristian-Mathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +32,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
