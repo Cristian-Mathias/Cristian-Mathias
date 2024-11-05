@@ -24,6 +24,7 @@
 |Formação CSS Web Developer|[Bootcamp](https://www.dio.me/certificate/OSSFXFIC/share)|
 |Formação JAVA SCRIPT Developer|[Bootcamp](https://www.dio.me/certificate/O3GRLXUQ/share)|
 |Desenvolvedor Back-end - JAVA  220 horas| Entra21 |
+|Formação Java com Spring Boot 75 horas|Digital Innovation One|
 |Analista de Deasenvolvimento Web  600 horas| Futuro Dev Tubarão - Lab365/Senai|
 
         
